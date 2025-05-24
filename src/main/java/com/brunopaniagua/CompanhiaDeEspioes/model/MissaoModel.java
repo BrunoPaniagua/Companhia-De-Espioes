@@ -1,8 +1,6 @@
-package model;
+package com.brunopaniagua.CompanhiaDeEspioes.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
-import enums.DificuldadeMissao;
+import com.brunopaniagua.CompanhiaDeEspioes.enums.DificuldadeMissao;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

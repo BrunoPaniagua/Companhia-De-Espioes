@@ -1,4 +1,4 @@
-package enums;
+package com.brunopaniagua.CompanhiaDeEspioes.enums;
 
 public enum RankEspioes {
     RECRUTA("Recruta - Nível Básico"),

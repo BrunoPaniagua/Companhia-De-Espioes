@@ -1,9 +1,9 @@
-package mapper;
+package com.brunopaniagua.CompanhiaDeEspioes.mapper;
 
-import dto.EspiaoDTO;
-import model.EspiaoModel;
+import com.brunopaniagua.CompanhiaDeEspioes.dto.EspiaoDTO;
+import com.brunopaniagua.CompanhiaDeEspioes.model.EspiaoModel;
 import org.springframework.stereotype.Component;
-import repository.MissaoRepository;
+import com.brunopaniagua.CompanhiaDeEspioes.repository.MissaoRepository;
 
 @Component
 public class EspiaoMapper {

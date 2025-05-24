@@ -1,6 +1,6 @@
-package repository;
+package com.brunopaniagua.CompanhiaDeEspioes.repository;
 
-import model.EspiaoModel;
+import com.brunopaniagua.CompanhiaDeEspioes.model.EspiaoModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EspiaoRepository extends JpaRepository<EspiaoModel, Long> {

@@ -1,7 +1,6 @@
-package model;
+package com.brunopaniagua.CompanhiaDeEspioes.model;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import enums.RankEspioes;
+import com.brunopaniagua.CompanhiaDeEspioes.enums.RankEspioes;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

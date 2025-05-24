@@ -1,6 +1,6 @@
-package dto;
+package com.brunopaniagua.CompanhiaDeEspioes.dto;
 
-import enums.RankEspioes;
+import com.brunopaniagua.CompanhiaDeEspioes.enums.RankEspioes;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
