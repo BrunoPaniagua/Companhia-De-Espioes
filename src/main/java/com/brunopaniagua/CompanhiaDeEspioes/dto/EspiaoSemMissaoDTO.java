@@ -8,12 +8,9 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class EspiaoDTO {
-
+public class EspiaoSemMissaoDTO {
     private Long id;
     private String nome;
     private int idade;
     private RankEspioes rank;
-    private MissaoSemEspioesDTO missao;
-
 }
